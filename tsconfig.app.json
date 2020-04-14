@@ -6,6 +6,7 @@
   },
   "files": [
     "src/main.ts",
+    "src/app/user/user.module.ts",
     "src/polyfills.ts"
   ],
   "include": [
